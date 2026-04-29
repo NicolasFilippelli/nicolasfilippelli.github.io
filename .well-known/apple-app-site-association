@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "details": [{
+      "appIDs": ["TEAMID.com.tuempresa.tuapp"],
+      "components": [
+        { "/": "/path/*" }
+      ]
+    }]
+  },
+  "webcredentials": {
+    "apps": ["TEAMID.com.tuempresa.tuapp"]
+  }
+}
